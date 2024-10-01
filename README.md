@@ -28,7 +28,7 @@ Here are some of the exciting things I've been working on:
 - **Database**: SQL, Firebase
 
 ### Tools & Technologies
-- **Design**: Figma, Adobe XD
+- **Design**: Figma
 - **Version Control**: Git & GitHub
 - **Collaboration**: Slack, Notion
 
@@ -48,7 +48,7 @@ Here are some of the exciting things I've been working on:
 
 ## 🌟 Fun Facts
 
-- 🚴‍♂️ I love staying active – from jogging to playing football, I enjoy the adrenaline rush.
+- 🚴‍♂️ I love staying active – playing football, I enjoy the adrenaline rush.
 - 🍔 Huge foodie at heart – I can't resist a good burger or Mexican taco 🌮!
 - 👾 Always experimenting – whether it’s new tech or building something creative.
 
