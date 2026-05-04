@@ -13,7 +13,6 @@ Hey there! 👋 I'm MengHeang, a passionate software engineering student who's e
 
 Here are some of the exciting things I've been working on:
 
-- 📝 **[Face Recognition Attendance System](#)**: Combining Python and Next.js to revolutionize attendance tracking with facial recognition!
 - 🎟️ **[Ticket Management and Booking System](#)**: Angular-based project to make event booking hassle-free.
 - 📱 **[Flutter UI Components](#)**: A collection of reusable Flutter widgets to accelerate mobile app development.
 
