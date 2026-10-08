@@ -1,66 +1,48 @@
-# 💻 Welcome to My GitHub World! 🌍
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/taxzy-mark-ondark.png" />
+    <img src="assets/taxzy-mark.png" width="46" height="50" alt="Taxzy" />
+  </picture>
+</p>
 
-Hey there! 👋 I'm MengHeang, a passionate software engineering student who's exploring the realms of code, design, and creativity. From building stunning user interfaces to diving deep into machine learning, I enjoy the challenge of solving real-world problems with elegant solutions. Check out my projects and join me on this coding adventure! 🚀
+# Ros MengHeang
 
-## 🚀 About Me
+**Taxzy** · Software engineer · Web, frontend, fullstack, and mobile
 
-- 🎓 **Student**: Majoring in Software Engineering, and always hungry for knowledge.
-- 🛠️ **Interests**: Mobile App Development, Machine Learning, Web Development.
-- 💡 **Focus Areas**: Creating apps that make life easier and exploring deep learning for smarter technology.
-- 🌱 **Currently Learning**: Full-stack development, and improving my Flutter skills.
+I build mobile apps, web products, and AI tools that feel clear to use. 4th-year Software Engineering student in Phnom Penh. Interned on a product team, then kept shipping apps, packages, and AI tools.
 
-## 💼 Projects
+**Currently** looking for web, frontend, fullstack, and mobile roles. Remote is welcome.
 
-Here are some of the exciting things I've been working on:
+[Portfolio](https://taxzy.dev) · [Resume](https://taxzy.dev/portfolio.pdf) · [Email](mailto:rosmengheang168@gmail.com) · [LinkedIn](https://www.linkedin.com/in/taxzy) · [Telegram](https://t.me/taxzygg)
 
-- 🎟️ **[Ticket Management and Booking System](#)**: Angular-based project to make event booking hassle-free.
-- 📱 **[Flutter UI Components](#)**: A collection of reusable Flutter widgets to accelerate mobile app development.
+## Featured
 
-> Feel free to explore these repositories, star 🌟 the ones you like, and fork 🍴 them if you want to contribute!
+Selected work. The full index is on [taxzy.dev](https://taxzy.dev).
 
-## ✨ Skills & Tools
+- **[Jomnouy](https://jomnouy.ctey.dev)** — AI exam preparation for Cambodia's National Baccalaureate. Next.js, Supabase, Vercel AI SDK. [Notes](https://taxzy.dev/projects/jomnouy)
+- **[Ticketer](https://ticketer.taxzy.dev)** — Ticketing for small events, with organizer tools, ABA PayWay checkout, and QR check-in. Next.js, FastAPI, PostgreSQL. [Notes](https://taxzy.dev/projects/ticketer)
+- **[Jomnorng](https://jomnorng.vercel.app)** — AI captions for social posts, including a Telegram bot. Next.js and Gemini. [Notes](https://taxzy.dev/projects/jomnorng)
+- **[SpotiTrack](https://spoti-track.vercel.app)** — Spotify listening analytics, recaps, and shareable cards. Next.js, TypeScript, Supabase. [Repo](https://github.com/RosMengHeang/SpotiTrack)
+- **[kh-address](https://www.npmjs.com/package/kh-address)** — Cambodian address data, province to village, in Khmer and English. [Repo](https://github.com/RosMengHeang/kh-address)
+- **[khmer-username-filter](https://www.npmjs.com/package/khmer-username-filter)** — Username checks for Khmer script, slang, impersonation, and spam. [Repo](https://github.com/RosMengHeang/khmer-username-filter)
 
-### Languages & Frameworks
-- **Frontend**: HTML, CSS, JavaScript, TypeScript, Flutter
-- **Backend**: Python (Flask, SQLAlchemy), Node.js
-- **ML & AI**: TensorFlow, MediaPipe, FaceNet
-- **Database**: SQL, Firebase
+**zTown** (private) — FocusTown-style multiplayer study town. React 19, React Three Fiber, Express 5, Socket.IO, and SQLite.
 
-### Tools & Technologies
-- **Design**: Figma
-- **Version Control**: Git & GitHub
-- **Collaboration**: Slack, Notion
+## Stack
 
-## 🛠️ My Toolkit
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,flutter,supabase,postgresql,fastapi&amp;theme=dark&amp;perline=6" />
+  <img width="330" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, Python, Flutter, Supabase, PostgreSQL, FastAPI" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,flutter,supabase,postgresql,fastapi&amp;theme=light&amp;perline=6" />
+</picture>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
+## GitHub
 
-## 🌐 Find Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RosMengHeang&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=c9d1d9&amp;icon_color=58a6ff" />
+  <img width="350" alt="GitHub stats for RosMengHeang" src="https://github-readme-stats.vercel.app/api?username=RosMengHeang&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=ffffff&amp;title_color=111827&amp;text_color=374151&amp;icon_color=1d4ed8" />
+</picture>
 
-- 🌱 Sharing thoughts on tech and life [@MyBlog](#)
-- 💬 Let's connect on [LinkedIn](#)
-- 🐦 Tweeting about tech trends on [Twitter](#)
-
-## 🌟 Fun Facts
-
-- 🚴‍♂️ I love staying active – playing football, I enjoy the adrenaline rush.
-- 🍔 Huge foodie at heart – I can't resist a good burger or Mexican taco 🌮!
-- 👾 Always experimenting – whether it’s new tech or building something creative.
-
-## 🤝 Contribute
-
-Got ideas or want to collaborate? Feel free to open issues, suggest new features, or even work on a project together! Contributions and feedback are always welcome. Let’s build something amazing!
-
-## 📈 GitHub Stats
-
-![Taxzy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
-Thank you for visiting my GitHub profile! Have a look around, and if something piques your interest, don’t hesitate to reach out. 😊✨ 
-
-Keep coding, keep exploring, and keep building! 🚀
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RosMengHeang&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=e6edf3&amp;text_color=c9d1d9" />
+  <img width="300" alt="Most used languages in RosMengHeang public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosMengHeang&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=ffffff&amp;title_color=111827&amp;text_color=374151" />
+</picture>
