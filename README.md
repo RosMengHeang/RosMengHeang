@@ -1,3 +1,5 @@
+<div align="center">
+
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/taxzy-mark-ondark.png" />
@@ -9,11 +11,13 @@
 
 **Taxzy** · Software engineer · Web, frontend, fullstack, and mobile
 
+</div>
+
 I build mobile apps, web products, and AI tools that feel clear to use. 4th-year Software Engineering student in Phnom Penh. Interned on a product team, then kept shipping apps, packages, and AI tools.
 
 **Currently** looking for web, frontend, fullstack, and mobile roles. Remote is welcome.
 
-[Portfolio](https://taxzy.dev) · [Resume](https://taxzy.dev/portfolio.pdf) · [Email](mailto:rosmengheang168@gmail.com) · [LinkedIn](https://www.linkedin.com/in/taxzy) · [Telegram](https://t.me/taxzygg)
+[Portfolio](https://taxzy.dev) · [Resume](https://taxzy.dev/portfolio.pdf) · [Email](mailto:rosmengheang168@gmail.com) · [LinkedIn](https://www.linkedin.com/in/taxzy)
 
 ## Featured
 
@@ -26,13 +30,11 @@ Selected work. The full index is on [taxzy.dev](https://taxzy.dev).
 - **[kh-address](https://www.npmjs.com/package/kh-address)** — Cambodian address data, province to village, in Khmer and English. [Repo](https://github.com/RosMengHeang/kh-address)
 - **[khmer-username-filter](https://www.npmjs.com/package/khmer-username-filter)** — Username checks for Khmer script, slang, impersonation, and spam. [Repo](https://github.com/RosMengHeang/khmer-username-filter)
 
-**zTown** (private) — FocusTown-style multiplayer study town. React 19, React Three Fiber, Express 5, Socket.IO, and SQLite.
-
 ## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,flutter,supabase,postgresql,fastapi&amp;theme=dark&amp;perline=6" />
-  <img width="330" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, Python, Flutter, Supabase, PostgreSQL, FastAPI" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,express,python,flutter,supabase,postgresql,fastapi&amp;theme=light&amp;perline=6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cexpress%2Cpython%2Cflutter%2Csupabase%2Cpostgresql%2Cfastapi&amp;theme=dark&amp;perline=6" />
+  <img width="330" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Express, Python, Flutter, Supabase, PostgreSQL, FastAPI" src="https://skillicons.dev/icons?i=ts%2Cjs%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cexpress%2Cpython%2Cflutter%2Csupabase%2Cpostgresql%2Cfastapi&amp;theme=light&amp;perline=6" />
 </picture>
 
 ## GitHub
